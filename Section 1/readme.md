@@ -1,1 +1,1 @@
-section 1 project
+판매량 데이터를 활용한 게임 개발 제안 
